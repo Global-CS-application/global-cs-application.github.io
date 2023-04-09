@@ -1,10 +1,14 @@
 site_name: Global CS
 site_author: 'Global-CS-application'
 theme:   
-
   name: material
   palette:
     primary: lime
+  features:
+    - content.action.edit
+  icon:
+    repo: fontawesome/brands/github
+
 
 nav:
   - "index.md"
@@ -17,5 +21,11 @@ nav:
           - Oxford ACS Mphil: "Program/T0.5/Oxford ACS Mphil.md"
       - T1:
           - KTH MSML: "Program/T1/KTH MSML.md"
+
           - KTH MSCS: "Program/T1/KTH MSCS.md"
           - TUD MSCS: "Program/T1/TUD MSCS.md"
+
+repo_url: https://github.com/Global-CS-application/global-cs-application.github.io
+repo_name: global-cs-application
+edit_uri: edit/master/docs/
+
