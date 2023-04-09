@@ -12,3 +12,10 @@ nav:
       - T0:
         - ETH MSCS: "Program/T0/ETH MSCS.md"
         - EPFL MSCS: "Program/T0/EPFL MSCS.md"
+      - T0.5:
+          - Cambridge ACS Mphil: "Program/T0.5/Cambridge ACS Mphil.md"
+          - Oxford ACS Mphil: "Program/T0.5/Oxford ACS Mphil.md"
+      - T1:
+          - KTH MSML: "Program/T1/KTH MSML.md"
+          - ETH MSCS: "Program/T1/KTH MSCS.md"
+          - TUD MSCS: "Program/T1/TUD MSCS.md"

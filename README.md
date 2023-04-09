@@ -8,11 +8,15 @@
 
 ## Why Global CS
 
-欧洲港新澳洲的留学资讯相对匮乏，各大留学网站的分区并不是十分活跃。
+* 欧洲港新澳洲的留学资讯相对匮乏，各大留学网站的分区并不是十分活跃。
+
+* 打破留学中介信息垄断，防止同学被中介坑
 
 ## How to play with Global CS
 
-点击**项目介绍**，项目按照综合排序进行划分，feel free to check any program u r interested in.
+点击**项目介绍**，项目按照综合排序进行划分（因为核心贡献者有限，带有一定主观性，期待您的贡献！）
+
+Feel free to check any program u r interested in.
 
 ***
 
@@ -20,7 +24,7 @@
 
 ## Aim User
 
-希望在欧洲港新澳洲留学的申请者；10043 er
+希望在欧洲港新澳洲留学的DIY申请者；10043 er
 
 ## Acknowledge
 
