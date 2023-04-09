@@ -20,7 +20,9 @@ Feel free to check any program u r interested in.
 
 ***
 
-<iframe style="width:100%;height:auto;min-width:600px;min-height:400px;" src="https://star-history.com/embed?secret=Z2hwXzdPWTlKeGJHZFdReWlaNVk1SG5zUnJSYXBoWFpzMjFTNDQ5MA==#Global-CS-application/global-cs-application.github.io&Date" frameBorder="0"></iframe>
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Global-CS-application/global-cs-application.github.io&type=Date)](https://star-history.com/#Global-CS-application/global-cs-application.github.io&Date)
 
 ## Aim User
 
