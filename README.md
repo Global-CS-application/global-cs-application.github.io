@@ -1,4 +1,4 @@
-# Global CS：留学CS项目指北
+# Global CS：欧港新澳留学CS项目指北
 
 ## What is Global CS
 
