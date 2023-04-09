@@ -21,9 +21,11 @@ nav:
           - Oxford ACS Mphil: "Program/T0.5/Oxford ACS Mphil.md"
       - T1:
           - KTH MSML: "Program/T1/KTH MSML.md"
-          - ETH MSCS: "Program/T1/KTH MSCS.md"
+
+          - KTH MSCS: "Program/T1/KTH MSCS.md"
           - TUD MSCS: "Program/T1/TUD MSCS.md"
 
 repo_url: https://github.com/Global-CS-application/global-cs-application.github.io
 repo_name: global-cs-application
 edit_uri: edit/master/docs/
+
