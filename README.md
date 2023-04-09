@@ -1,6 +1,4 @@
-# global-cs-application.github.io
-
-# 快速入门
+# Global CS：留学CS项目指北
 
 ## What is Global CS
 
