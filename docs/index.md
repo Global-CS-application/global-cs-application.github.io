@@ -1,17 +1,11 @@
-# Welcome to MkDocs
+# 快速入门
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+这是一个针对**欧洲港新澳洲**地区计算机硕士相关项目的介绍网站（如果你更关心北美地区的项目，请移步[openCS](https://opencs.app/) ╥﹏╥）
 
-## Commands
+### 致谢
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+本项目受到[flash老师](https://github.com/xichenpan)的[openCS](https://github.com/opencsapp/opencsapp.github.io)项目的启发
 
-## Project layout
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+
+

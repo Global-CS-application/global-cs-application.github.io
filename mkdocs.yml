@@ -1,7 +1,12 @@
-site_name: CS Msc application
-
+site_name: Global CS application
+site_author: 'Global-CS-application'
 theme:   
 
   name: material
   palette:
     primary: lime
+
+nav:
+  - "index.md"
+  - T0:
+      - ETH MSCS: "T0/ETH MSCS.md"
