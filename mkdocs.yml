@@ -1,4 +1,4 @@
-site_name: Global CS application
+site_name: Global CS
 site_author: 'Global-CS-application'
 theme:   
 
@@ -8,5 +8,6 @@ theme:
 
 nav:
   - "index.md"
-  - T0:
-      - ETH MSCS: "T0/ETH MSCS.md"
+  - 项目介绍:
+      - T0:
+        - ETH MSCS: "Program/T0/ETH MSCS.md"
