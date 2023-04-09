@@ -1,0 +1,7 @@
+site_name: CS Msc application
+
+theme:   
+
+  name: material
+  palette:
+    primary: lime
