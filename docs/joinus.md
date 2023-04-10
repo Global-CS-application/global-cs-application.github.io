@@ -18,11 +18,36 @@
 
 * 填补各个项目信息并提交pr（这非常重要！）
 * 提交申请季总结/经验
+* 添加新申请项目
 
 > **填补各个项目信息**
 
-(WAIT TO BE DONE)
+PR (Pull Request) 是基于 Git 的协同创作方式，允许用户方便地进行贡献内容，允许维护者进行审核。
+
+下面通过提交ETH MSCS项目修改，进行无代码 PR 的最佳实践。直接点击[ETH MSCS](Program/T0/ETH MSCS.md)页面编辑按钮，点击想要更改的页面右上角的编辑图标（铅笔形状）。
+
+![](images/1.png)
+
+初次提交点击`Fork this repository`将仓库 fork 到自己的账户下
+
+![](images/2.png)
+
+在窗口内使用 Markdown 语法直接进行更改，点击`Propose changes`完成更改
+
+![](images/3.png)
+
+点击`Create pull request`向`global-cs-application.github.io:main`分支发起 Pull Request
+
+![](images/4.png)
+
+等待 Pull Request 审核通过后，内容会被自动编译并部署到网页，不需要用户进行额外操作。再次提交更新重复步骤 1 即可，第二次提交可以省略步骤 2
+
+![](images/5.png)
 
 > **提交申请季总结/经验**
+
+(WAIT TO BE DONE) 
+
+> **添加新申请项目**
 
 (WAIT TO BE DONE) 
