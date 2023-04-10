@@ -13,60 +13,128 @@ theme:
 nav:
   - "index.md"
   - 项目介绍:
-      - Ⅹ:
-          - UZH CS: "Program/TX/UZH CS.md"
-          - UZH AI: "Program/TX/UZH AI.md"
-          - UZH DS: "Program/TX/UZH DS.md"
-          - TUM CS: "Program/TX/TUM CS.md"
-          - KAIST CS: "Program/TX/KAIST CS.md"
-          - UTokyo CS: "Program/TX/UTokyo CS.md"
-          - KAUST CS Msc: "Program/TX/KAUST CS Msc.md"
-      - Ⅰ:
-          - ETH MSCS: "Program/T0/ETH MSCS.md"
-          - ETH MSDS: "Program/T0/ETH MSDS.md"
-          - EPFL MSCS: "Program/T0/EPFL MSCS.md"
-          - ETH Cyber Security: "Program/T0/ETH Cyber Security.md"
-          - Cambridge MLMI: "Program/T0/Cambridge MLMI.md"
-          - Cambridge ACS: "Program/T0/Cambridge ACS.md"
-          - Oxford ACS: "Program/T0/Oxford ACS.md"
-          - UCL CSML MSc: "Program/T0/UCL CSML MSc.md"
-          - UCL ML MSc: "Program/T0/UCL ML MSc.md"
-      - Ⅱ:
-          - EPFL MSDH: "Program/T0.5/EPFL MSDH.md"
-          - UCL DSML MSc: "Program/T0.5/UCL DSML MSc.md"
-      - Ⅲ:
-          - Edinburgh AI: "Program/T1/Edinburgh AI.md"
-          - IC AIML: "Program/T1/IC AIML.md"
-          - IC AC: "Program/T1/IC AC.md"
-          - KTH MSML: "Program/T1/KTH MSML.md"
-          - KTH MSCS: "Program/T1/KTH MSCS.md"
-          - TUD MSCS: "Program/T1/TUD MSCS.md"
-          - UvA AI: "Program/T1/UvA AI.md"
-      - Ⅳ:
-          - Europe Program:
-            - Edinburgh REST: "Program/T1.5/Edinburgh REST.md"
-            - UCL CS Msc: "Program/T1.5/UCL CS Msc.md"
-            - UCL CGVI: "Program/T1.5/UCL CGVI.md"
-            - EIT&EM欧盟奖学金: "Program/T1.5/EIT&EM欧盟奖学金.md"
-            - TUE CS: "Program/T1.5/TUE CS.md"
-            - Aalto CS: "Program/T1.5/Aalto CS.md"
-            - Aalto  HCI: "Program/T1.5/Aalto  HCI.md"
-            - Aalto MLDSAI: "Program/T1.5/Aalto MLDSAI.md"
-          - Asia Program:
-            - NUS Mcomp: "Program/T1.5/NUS Mcomp.md"
-            - NTU MSAI: "Program/T1.5/NTU MSAI.md"
-            - NTU MSDS: "Program/T1.5/NTU MSDS.md"
-            - NTU Cyber Security: "Program/T1.5/NTU Cyber Security.md"
+      - Europe:
+          - Ⅰ:
+              - ETH MSCS: "Program/T0/ETH MSCS.md"
+              - ETH MSDS: "Program/T0/ETH MSDS.md"
+              - EPFL MSCS: "Program/T0/EPFL MSCS.md"
+              - ETH Cyber Security: "Program/T0/ETH Cyber Security.md"
+          - Ⅱ:
+              - EPFL MSDH: "Program/T0.5/EPFL MSDH.md"
+          - Ⅲ:
+              - KTH MSML: "Program/T1/KTH MSML.md"
+              - KTH MSCS: "Program/T1/KTH MSCS.md"
+              - TUD MSCS: "Program/T1/TUD MSCS.md"
+              - UvA AI: "Program/T1/UvA AI.md"
+          - Ⅳ:
+              - EIT&EM欧盟奖学金: "Program/T1.5/EIT&EM欧盟奖学金.md"
+              - TUE CS: "Program/T1.5/TUE CS.md"
+              - Aalto CS: "Program/T1.5/Aalto CS.md"
+              - Aalto  HCI: "Program/T1.5/Aalto  HCI.md"
+              - Aalto MLDSAI: "Program/T1.5/Aalto MLDSAI.md"
+          - Ⅴ:
+              - KU CS: "Program/T2/KU CS.md"
+              - UH CS: "Program/T2/UH CS.md"
+              - UvA&VU CS: "Program/T2/UvA&VU CS.md"
+          - Ⅹ:
+              - UZH CS: "Program/TX/UZH CS.md"
+              - UZH AI: "Program/TX/UZH AI.md"
+              - UZH DS: "Program/TX/UZH DS.md"
+              - TUM CS: "Program/TX/TUM CS.md"
+
+      - UK:
+          - Ⅰ:
+              - Cambridge MLMI: "Program/T0/Cambridge MLMI.md"
+              - Cambridge ACS: "Program/T0/Cambridge ACS.md"
+              - Oxford ACS: "Program/T0/Oxford ACS.md"
+              - UCL CSML MSc: "Program/T0/UCL CSML MSc.md"
+              - UCL ML MSc: "Program/T0/UCL ML MSc.md"
+          - Ⅱ:
+              - UCL DSML MSc: "Program/T0.5/UCL DSML MSc.md"
+          - Ⅲ:
+              - Edinburgh AI: "Program/T1/Edinburgh AI.md"
+              - IC AIML: "Program/T1/IC AIML.md"
+              - IC AC: "Program/T1/IC AC.md"
+          - Ⅳ:
+              - Edinburgh REST: "Program/T1.5/Edinburgh REST.md"
+              - UCL CS Msc: "Program/T1.5/UCL CS Msc.md"
+              - UCL CGVI: "Program/T1.5/UCL CGVI.md"
+
+      - HK:
             - HKUST BDT: "Program/T1.5/HKUST BDT.md"
             - HKUST IT: "Program/T1.5/HKUST IT.md"
             - HKU CS Msc: "Program/T1.5/HKU CS Msc.md"
             - CUHK CS Msc: "Program/T1.5/CUHK CS Msc.md"
             - CUHK IE: "Program/T1.5/CUHK IE.md"
-      - Ⅴ:
-          - KU CS: "Program/T2/KU CS.md"
-          - UH CS: "Program/T2/UH CS.md"
-          - UvA&VU CS: "Program/T2/UvA&VU CS.md"
-          - NUS CE: "Program/T2/NUS CE.md"
+
+      - SGP(Singapore):
+          - Ⅰ:
+              - NUS Mcomp: "Program/T1.5/NUS Mcomp.md"
+              - NTU MSAI: "Program/T1.5/NTU MSAI.md"
+              - NTU MSDS: "Program/T1.5/NTU MSDS.md"
+              - NTU Cyber Security: "Program/T1.5/NTU Cyber Security.md"
+          - Ⅱ:
+              - NUS CE: "Program/T2/NUS CE.md"
+
+      - JP/KR/OTHER:
+          - KAIST CS: "Program/TX/KAIST CS.md"
+          - UTokyo CS: "Program/TX/UTokyo CS.md"
+          - KAUST CS Msc: "Program/TX/KAUST CS Msc.md"
+
+#      - Ⅰ:
+#          - ETH MSCS: "Program/T0/ETH MSCS.md"
+#          - ETH MSDS: "Program/T0/ETH MSDS.md"
+#          - EPFL MSCS: "Program/T0/EPFL MSCS.md"
+#          - ETH Cyber Security: "Program/T0/ETH Cyber Security.md"
+#          - Cambridge MLMI: "Program/T0/Cambridge MLMI.md"
+#          - Cambridge ACS: "Program/T0/Cambridge ACS.md"
+#          - Oxford ACS: "Program/T0/Oxford ACS.md"
+#          - UCL CSML MSc: "Program/T0/UCL CSML MSc.md"
+#          - UCL ML MSc: "Program/T0/UCL ML MSc.md"
+#      - Ⅱ:
+#          - EPFL MSDH: "Program/T0.5/EPFL MSDH.md"
+#          - UCL DSML MSc: "Program/T0.5/UCL DSML MSc.md"
+#      - Ⅲ:
+#          - Edinburgh AI: "Program/T1/Edinburgh AI.md"
+#          - IC AIML: "Program/T1/IC AIML.md"
+#          - IC AC: "Program/T1/IC AC.md"
+#          - KTH MSML: "Program/T1/KTH MSML.md"
+#          - KTH MSCS: "Program/T1/KTH MSCS.md"
+#          - TUD MSCS: "Program/T1/TUD MSCS.md"
+#          - UvA AI: "Program/T1/UvA AI.md"
+#      - Ⅳ:
+#          - Europe Program:
+#            - Edinburgh REST: "Program/T1.5/Edinburgh REST.md"
+#            - UCL CS Msc: "Program/T1.5/UCL CS Msc.md"
+#            - UCL CGVI: "Program/T1.5/UCL CGVI.md"
+#            - EIT&EM欧盟奖学金: "Program/T1.5/EIT&EM欧盟奖学金.md"
+#            - TUE CS: "Program/T1.5/TUE CS.md"
+#            - Aalto CS: "Program/T1.5/Aalto CS.md"
+#            - Aalto  HCI: "Program/T1.5/Aalto  HCI.md"
+#            - Aalto MLDSAI: "Program/T1.5/Aalto MLDSAI.md"
+#          - Asia Program:
+#            - NUS Mcomp: "Program/T1.5/NUS Mcomp.md"
+#            - NTU MSAI: "Program/T1.5/NTU MSAI.md"
+#            - NTU MSDS: "Program/T1.5/NTU MSDS.md"
+#            - NTU Cyber Security: "Program/T1.5/NTU Cyber Security.md"
+#            - HKUST BDT: "Program/T1.5/HKUST BDT.md"
+#            - HKUST IT: "Program/T1.5/HKUST IT.md"
+#            - HKU CS Msc: "Program/T1.5/HKU CS Msc.md"
+#            - CUHK CS Msc: "Program/T1.5/CUHK CS Msc.md"
+#            - CUHK IE: "Program/T1.5/CUHK IE.md"
+#      - Ⅴ:
+#          - KU CS: "Program/T2/KU CS.md"
+#          - UH CS: "Program/T2/UH CS.md"
+#          - UvA&VU CS: "Program/T2/UvA&VU CS.md"
+#          - NUS CE: "Program/T2/NUS CE.md"
+#      - Ⅹ:
+#          - UZH CS: "Program/TX/UZH CS.md"
+#          - UZH AI: "Program/TX/UZH AI.md"
+#          - UZH DS: "Program/TX/UZH DS.md"
+#          - TUM CS: "Program/TX/TUM CS.md"
+#          - KAIST CS: "Program/TX/KAIST CS.md"
+#          - UTokyo CS: "Program/TX/UTokyo CS.md"
+#          - KAUST CS Msc: "Program/TX/KAUST CS Msc.md"
 
 repo_url: https://github.com/Global-CS-application/global-cs-application.github.io
 repo_name: global-cs-application
