@@ -50,8 +50,6 @@ Feel free to check any program u r interested in.
 
 优先添加欧洲，港新项目（目前缺乏对澳洲项目了解的同学）
 
-希望添加更高效的协同编辑制度
-
 
 
 
