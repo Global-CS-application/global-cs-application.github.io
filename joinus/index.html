@@ -11,7 +11,7 @@
       
       
       
-        <link rel="prev" href="../Program/TX/KAUST%20CS%20Msc/">
+        <link rel="prev" href="../summary/23fall/test/">
       
       
       <link rel="icon" href="../assets/images/favicon.png">
@@ -1537,6 +1537,103 @@
 
   
   
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
+          申请总结
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_3">
+          <span class="md-nav__icon md-icon"></span>
+          申请总结
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_1" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_3_1" id="__nav_3_1_label" tabindex="0">
+          23fall
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_1_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_3_1">
+          <span class="md-nav__icon md-icon"></span>
+          23fall
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../summary/23fall/test/" class="md-nav__link">
+        Test Page1
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../summary/23fall/test/" class="md-nav__link">
+        Test Page2
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
     
   
   
@@ -1696,7 +1793,36 @@
 </details>
 <details class="success">
 <summary>(2) 提交申请季总结/经验</summary>
-<p>(WAIT TO BE DONE) </p>
+<ol>
+<li>首先fork本项目至自己的github账户下（如果已经fork该项目则忽略该步骤）</li>
+</ol>
+<p><img alt="" src="../images/6.png" /></p>
+<p>成功的话你会在自己的个人仓库下有一个一模一样的项目</p>
+<p><img alt="" src="../images/7.png" /></p>
+<p>2.点入自己账号下面的仓库，clone至本地（注意千万不要clone我们的原始仓库！）</p>
+<p>在本地仓库的docs/summary/23fall 下面添加一个markdown文件（用.md结尾即可）,这里我们用test.md为例。</p>
+<p><img alt="" src="../images/8.png" /></p>
+<p>注意：你的所有申请总结就写在这个文件中（之后的工作主要是在网页中显示你这个markdown文件</p>
+<p>3.打开项目中mkdocs.yml文件，这里管理着所有页面的显示结构。</p>
+<p>YAML 是 YAML Ain't Markup Language 的递归缩略语，也是一种人类可读（human-readable) 的数据序列化语言，其文件扩展名为 .yml 或 .yaml（官方推荐）。常被用作和 JSON 格式文件一样编写配置或存储相关数据内容。</p>
+<p>找到图片中所指示的位置，添加一行（这里添加了两行，分别是<code>- Test Page1: "summary/23fall/test.md"</code> 和 <code>- Test Page1: "summary/23fall/test.md"</code>。
+注意再添加的一行需要与这两行保持缩进， <code>Test Page1</code>代表着你申请总结的标题，后面的路径指示你的md文件的路径。</p>
+<p><img alt="" src="../images/9.png" /></p>
+<p>4.git push 你的改动同步到个人仓库</p>
+<p>这是一个基本的github技能，不再赘述。常用流程 </p>
+<ul>
+<li>git pull</li>
+<li>git add .</li>
+<li>git commit -m "简单描述你添加了哪些内容“</li>
+<li>
+<p>git push </p>
+</li>
+<li>
+<p>回到个人仓库提交pr即可，记得在pr中写一下你做了哪些修改，之后的工作我们小伙伴会把你的内容merge进入原始仓库，你的修改就完成啦！</p>
+</li>
+</ul>
+<p><img alt="" src="../images/10.png" /></p>
+<p><img alt="" src="../images/11.png" /></p>
 </details>
 <details class="success">
 <summary>(3) 添加新申请项目</summary>
