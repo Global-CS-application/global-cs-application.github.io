@@ -1677,6 +1677,47 @@
     贡献方式
   </a>
   
+    <nav class="md-nav" aria-label="贡献方式">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#1-forkgithubfork" class="md-nav__link">
+    1. 首先fork本项目至自己的github账户下（如果已经fork该项目则忽略该步骤）
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#2cloneclone" class="md-nav__link">
+    2.点入自己账号下面的仓库，clone至本地（注意千万不要clone我们的原始仓库！）
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#3mkdocsyml" class="md-nav__link">
+    3.打开项目中mkdocs.yml文件，这里管理着所有页面的显示结构。
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#4git-push" class="md-nav__link">
+    4.git push 你的改动同步到个人仓库
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#5prprmerge" class="md-nav__link">
+    5.回到个人仓库提交pr即可，记得在pr中写一下你做了哪些修改，之后的工作我们小伙伴会把你的内容merge进入原始仓库，你的修改就完成啦！
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
 </li>
       
     </ul>
@@ -1722,6 +1763,47 @@
   <a href="#_1" class="md-nav__link">
     贡献方式
   </a>
+  
+    <nav class="md-nav" aria-label="贡献方式">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#1-forkgithubfork" class="md-nav__link">
+    1. 首先fork本项目至自己的github账户下（如果已经fork该项目则忽略该步骤）
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#2cloneclone" class="md-nav__link">
+    2.点入自己账号下面的仓库，clone至本地（注意千万不要clone我们的原始仓库！）
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#3mkdocsyml" class="md-nav__link">
+    3.打开项目中mkdocs.yml文件，这里管理着所有页面的显示结构。
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#4git-push" class="md-nav__link">
+    4.git push 你的改动同步到个人仓库
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#5prprmerge" class="md-nav__link">
+    5.回到个人仓库提交pr即可，记得在pr中写一下你做了哪些修改，之后的工作我们小伙伴会把你的内容merge进入原始仓库，你的修改就完成啦！
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
   
 </li>
       
@@ -1793,34 +1875,28 @@
 </details>
 <details class="success">
 <summary>(2) 提交申请季总结/经验</summary>
-<ol>
-<li>首先fork本项目至自己的github账户下（如果已经fork该项目则忽略该步骤）</li>
-</ol>
+<h4 id="1-forkgithubfork">1. 首先fork本项目至自己的github账户下（如果已经fork该项目则忽略该步骤）</h4>
 <p><img alt="" src="../images/6.png" /></p>
 <p>成功的话你会在自己的个人仓库下有一个一模一样的项目</p>
 <p><img alt="" src="../images/7.png" /></p>
-<p>2.点入自己账号下面的仓库，clone至本地（注意千万不要clone我们的原始仓库！）</p>
+<h4 id="2cloneclone">2.点入自己账号下面的仓库，clone至本地（注意千万不要clone我们的原始仓库！）</h4>
 <p>在本地仓库的docs/summary/23fall 下面添加一个markdown文件（用.md结尾即可）,这里我们用test.md为例。</p>
 <p><img alt="" src="../images/8.png" /></p>
 <p>注意：你的所有申请总结就写在这个文件中（之后的工作主要是在网页中显示你这个markdown文件</p>
-<p>3.打开项目中mkdocs.yml文件，这里管理着所有页面的显示结构。</p>
+<h4 id="3mkdocsyml">3.打开项目中mkdocs.yml文件，这里管理着所有页面的显示结构。</h4>
 <p>YAML 是 YAML Ain't Markup Language 的递归缩略语，也是一种人类可读（human-readable) 的数据序列化语言，其文件扩展名为 .yml 或 .yaml（官方推荐）。常被用作和 JSON 格式文件一样编写配置或存储相关数据内容。</p>
 <p>找到图片中所指示的位置，添加一行（这里添加了两行，分别是<code>- Test Page1: "summary/23fall/test.md"</code> 和 <code>- Test Page1: "summary/23fall/test.md"</code>。
 注意再添加的一行需要与这两行保持缩进， <code>Test Page1</code>代表着你申请总结的标题，后面的路径指示你的md文件的路径。</p>
 <p><img alt="" src="../images/9.png" /></p>
-<p>4.git push 你的改动同步到个人仓库</p>
+<h4 id="4git-push">4.git push 你的改动同步到个人仓库</h4>
 <p>这是一个基本的github技能，不再赘述。常用流程 </p>
 <ul>
 <li>git pull</li>
 <li>git add .</li>
 <li>git commit -m "简单描述你添加了哪些内容“</li>
-<li>
-<p>git push </p>
-</li>
-<li>
-<p>回到个人仓库提交pr即可，记得在pr中写一下你做了哪些修改，之后的工作我们小伙伴会把你的内容merge进入原始仓库，你的修改就完成啦！</p>
-</li>
+<li>git push </li>
 </ul>
+<h4 id="5prprmerge">5.回到个人仓库提交pr即可，记得在pr中写一下你做了哪些修改，之后的工作我们小伙伴会把你的内容merge进入原始仓库，你的修改就完成啦！</h4>
 <p><img alt="" src="../images/10.png" /></p>
 <p><img alt="" src="../images/11.png" /></p>
 </details>
