@@ -1,5 +1,15 @@
 site_name: Global CS
 site_author: 'Global-CS-application'
+markdown_extensions:
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+
 theme:   
   name: material
   palette:
@@ -8,6 +18,21 @@ theme:
     - content.action.edit
   icon:
     repo: fontawesome/brands/github
+    admonition:
+      note: octicons/tag-16
+      abstract: octicons/checklist-16
+      info: octicons/info-16
+      tip: octicons/squirrel-16
+      success: octicons/check-16
+      question: octicons/question-16
+      warning: octicons/alert-16
+      failure: octicons/x-circle-16
+      danger: octicons/zap-16
+      bug: octicons/bug-16
+      example: octicons/beaker-16
+      quote: octicons/quote-16
+  custom_dir: overrides
+
 
 
 nav:
@@ -27,7 +52,8 @@ nav:
               - TUD MSCS: "Program/T1/TUD MSCS.md"
               - UvA AI: "Program/T1/UvA AI.md"
           - Ⅳ:
-              - EIT&EM欧盟奖学金: "Program/T1.5/EIT&EM欧盟奖学金.md"
+              - EIT欧盟奖学金: "Program/T1.5/EIT欧盟奖学金.md"
+              - Erasmus欧盟奖学金: "Program/T1.5/EM欧盟奖学金.md"
               - TUE CS: "Program/T1.5/TUE CS.md"
               - Aalto CS: "Program/T1.5/Aalto CS.md"
               - Aalto HCI: "Program/T1.5/Aalto HCI.md"
@@ -111,7 +137,7 @@ nav:
 #            - Edinburgh REST: "Program/T1.5/Edinburgh REST.md"
 #            - UCL CS Msc: "Program/T1.5/UCL CS Msc.md"
 #            - UCL CGVI: "Program/T1.5/UCL CGVI.md"
-#            - EIT&EM欧盟奖学金: "Program/T1.5/EIT&EM欧盟奖学金.md"
+#            - EIT&EM欧盟奖学金: "Program/T1.5/EIT欧盟奖学金.md"
 #            - TUE CS: "Program/T1.5/TUE CS.md"
 #            - Aalto CS: "Program/T1.5/Aalto CS.md"
 #            - Aalto  HCI: "Program/T1.5/Aalto HCI.md"
