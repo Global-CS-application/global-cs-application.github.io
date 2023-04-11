@@ -106,6 +106,10 @@ nav:
           - KAIST CS: "Program/TX/KAIST CS.md"
           - UTokyo CS: "Program/TX/UTokyo CS.md"
           - KAUST CS Msc: "Program/TX/KAUST CS Msc.md"
+  - 申请总结:
+      - 23fall:
+          - Test Page1: "summary/23fall/test.md"
+          - Test Page2: "summary/23fall/test.md" 
   - 加入我们: "joinus.md"
 #      - Ⅰ:
 #          - ETH MSCS: "Program/T0/ETH MSCS.md"
