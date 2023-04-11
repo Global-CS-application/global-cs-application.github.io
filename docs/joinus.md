@@ -50,7 +50,45 @@
 
 ??? success "(2) 提交申请季总结/经验"
 
-    (WAIT TO BE DONE) 
+    1. 首先fork本项目至自己的github账户下（如果已经fork该项目则忽略该步骤）
+
+    ![](images/6.png)
+
+    成功的话你会在自己的个人仓库下有一个一模一样的项目
+
+    ![](images/7.png)
+
+    2.点入自己账号下面的仓库，clone至本地（注意千万不要clone我们的原始仓库！）
+
+    在本地仓库的docs/summary/23fall 下面添加一个markdown文件（用.md结尾即可）,这里我们用test.md为例。
+
+    ![](images/8.png)
+    
+    注意：你的所有申请总结就写在这个文件中（之后的工作主要是在网页中显示你这个markdown文件
+
+    3.打开项目中mkdocs.yml文件，这里管理着所有页面的显示结构。
+
+    YAML 是 YAML Ain't Markup Language 的递归缩略语，也是一种人类可读（human-readable) 的数据序列化语言，其文件扩展名为 .yml 或 .yaml（官方推荐）。常被用作和 JSON 格式文件一样编写配置或存储相关数据内容。
+
+    找到图片中所指示的位置，添加一行（这里添加了两行，分别是`- Test Page1: "summary/23fall/test.md"` 和 `- Test Page1: "summary/23fall/test.md"`。
+    注意再添加的一行需要与这两行保持缩进， `Test Page1`代表着你申请总结的标题，后面的路径指示你的md文件的路径。
+
+    ![](images/9.png)
+
+    4.git push 你的改动同步到个人仓库
+
+    这是一个基本的github技能，不再赘述。常用流程 
+
+    * git pull
+    * git add .
+    * git commit -m "简单描述你添加了哪些内容“
+    * git push 
+
+    5. 回到个人仓库提交pr即可，记得在pr中写一下你做了哪些修改，之后的工作我们小伙伴会把你的内容merge进入原始仓库，你的修改就完成啦！
+
+    ![](images/10.png)
+
+    ![](images/11.png)
 
 ??? success "(3) 添加新申请项目"
 
