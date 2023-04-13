@@ -1,6 +1,6 @@
 # 快速入门
 
-## What is Global CS
+> ## **What is Global CS**
 
 这是一个针对**欧洲/港新/澳洲**地区计算机硕士相关项目的介绍网站
 
@@ -8,7 +8,7 @@
 
 我们理解并支持每一位同学的选择，项目的所有信息仅辅助所有用户的个人决策。
 
-## Why Global CS
+> ## **Why Global CS**
 
 * 欧洲港新澳洲的留学资讯相对匮乏，各大留学网站的分区并不是十分活跃。
 * 打破留学中介信息垄断，防止同学被中介坑
@@ -16,7 +16,7 @@
 * 快速了解有哪些同档项目可以选择，避免遗漏项目（From [openCS](https://opencs.app/)）
 * 了解项目特点和录取特点，根据背景扬长避短，合理选校（From [openCS](https://opencs.app/)）
 
-## How to play with Global CS
+> ## **How to play with Global CS**
 
 点击**项目介绍**，根据分类浏览项目即可，分类是为了申请者能够更为清晰的浏览所有项目（Ⅹ类下面的项目表示更着重匹配度/有特殊评价机制的项目），并不具备任何比较项目等相关意图（因为这显然取决于你的**评价标准**）,申请人不应完全依赖本文档信息，应当参考文档信息自主决策。
 
@@ -31,15 +31,15 @@ Feel free to check any program u r interested in.
 
 ***
 
-## Star History
+> ## **Star History**
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Global-CS-application/global-cs-application.github.io&type=Date)](https://star-history.com/#Global-CS-application/global-cs-application.github.io&Date)
 
-## Aim User
+> ## **Aim User**
 
 希望在欧洲港新澳洲留学的DIY申请者；10043 er
 
-## Acknowledge
+> ## **Acknowledge**
 
 本项目受到[flash老师](https://github.com/xichenpan)的[openCS](https://github.com/opencsapp/opencsapp.github.io)项目的启发
 
@@ -47,7 +47,7 @@ Feel free to check any program u r interested in.
 
 
 
-## Working plan
+> **## Working plan**
 
 优先添加欧洲，港新项目（目前缺乏对澳洲项目了解的同学）
 
