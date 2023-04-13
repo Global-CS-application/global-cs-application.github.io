@@ -61,6 +61,8 @@ extra:
       - accept
       - manage
 
+plugins:
+  - search
 
 nav:
   - "index.md"
