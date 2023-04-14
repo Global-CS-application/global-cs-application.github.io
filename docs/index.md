@@ -2,7 +2,7 @@
 
 > ## **What is Global CS**
 
-这是一个针对**欧洲/港新/澳洲**地区计算机硕士相关项目的介绍网站
+这是一个针对**欧洲/港新**地区计算机硕士相关项目的介绍网站
 
 （如果你更关心北美地区的项目，请移步[openCS](https://opencs.app/) ╥﹏╥）
 
@@ -10,7 +10,7 @@
 
 > ## **Why Global CS**
 
-* 欧洲港新澳洲的留学资讯相对匮乏，各大留学网站的分区并不是十分活跃。
+* 欧洲港新的留学资讯相对匮乏，各大留学网站的分区并不是十分活跃。
 * 打破留学中介信息垄断，防止同学被中介坑
 * 快速建立对项目申请难度的认知，轻松地根据背景进行项目初选（From [openCS](https://opencs.app/)）
 * 快速了解有哪些同档项目可以选择，避免遗漏项目（From [openCS](https://opencs.app/)）
@@ -37,7 +37,7 @@ Feel free to check any program u r interested in.
 
 > ## **Aim User**
 
-希望在欧洲港新澳洲留学的DIY申请者；10043 er
+希望在欧洲港新留学的DIY申请者；10043 er
 
 > ## **Acknowledge**
 
