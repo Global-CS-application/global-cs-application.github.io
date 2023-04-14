@@ -35,6 +35,15 @@ theme:
     - search.suggest
     - search.highlight
     - search.share
+    - navigation.instant
+    - navigation.tracking
+    - navigation.expand
+    - navigation.tabs
+    - navigation.tabs.sticky]
+    - navigation.sections
+    - navigation.top
+    - toc.integrate
+    - toc.follow
   icon:
     repo: fontawesome/brands/github
     admonition:
@@ -70,7 +79,7 @@ plugins:
 nav:
   - "index.md"
   - 项目介绍:
-      - Europe:
+      - 欧陆项目:
           - Ⅰ:
               - ETH MSCS: "Program/T0/ETH MSCS.md"
               - ETH MSDS: "Program/T0/ETH MSDS.md"
@@ -101,7 +110,7 @@ nav:
               - UZH DS: "Program/TX/UZH DS.md"
               - TUM CS: "Program/TX/TUM CS.md"
 
-      - UK:
+      - 英国项目:
           - Ⅰ:
               - Cambridge MLMI: "Program/T0/Cambridge MLMI.md"
               - Cambridge ACS: "Program/T0/Cambridge ACS.md"
@@ -119,14 +128,14 @@ nav:
               - UCL CS Msc: "Program/T1.5/UCL CS Msc.md"
               - UCL CGVI: "Program/T1.5/UCL CGVI.md"
 
-      - HK:
+      - 香港项目:
             - HKUST BDT: "Program/T1.5/HKUST BDT.md"
             - HKUST IT: "Program/T1.5/HKUST IT.md"
             - HKU CS Msc: "Program/T1.5/HKU CS Msc.md"
             - CUHK CS Msc: "Program/T1.5/CUHK CS Msc.md"
             - CUHK IE: "Program/T1.5/CUHK IE.md"
 
-      - SGP(Singapore):
+      - 新加坡项目:
           - Ⅰ:
               - NUS Mcomp: "Program/T1.5/NUS Mcomp.md"
               - NTU MSAI: "Program/T1.5/NTU MSAI.md"
@@ -135,7 +144,7 @@ nav:
           - Ⅱ:
               - NUS CE: "Program/T2/NUS CE.md"
 
-      - JP/KR/OTHER:
+      - 日韩/其他项目:
           - KAIST CS: "Program/TX/KAIST CS.md"
           - UTokyo CS: "Program/TX/UTokyo CS.md"
           - KAUST CS Msc: "Program/TX/KAUST CS Msc.md"
