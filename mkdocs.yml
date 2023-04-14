@@ -39,7 +39,7 @@ theme:
     - navigation.tracking
     - navigation.expand
     - navigation.tabs
-    - navigation.tabs.sticky]
+    - navigation.tabs.sticky
     - navigation.sections
     - navigation.top
     - toc.integrate
