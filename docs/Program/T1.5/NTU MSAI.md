@@ -4,7 +4,7 @@
 
     | 项目时长 | 授课语言 | 学位类型 | 是否强制实习 | 毕业是否需要论文 | 奖学金 | 其他 |
     |------|------|--------|----------|------|------|------------|
-    | 1年    | EN | Master of Science in Artificial Intelligence       | 否      | 非必要    | 奖学金基本只针对新加坡人    | 无        |
+    | 1～1.5年    | EN | Master of Science in Artificial Intelligence       | 否      | 非必要    | 奖学金基本只针对新加坡人    | 无        |
 
 ???+ abstract "项目优劣势" 
 
