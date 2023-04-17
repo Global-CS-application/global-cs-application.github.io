@@ -9,6 +9,7 @@
 ???+ abstract "项目优劣势" 
 
     Pros:
+    
     * 学费低，1500欧/学期
     * 周围企业众多，就业环境好
     * 纬度低，气候较为温暖
@@ -20,6 +21,7 @@
     * (建议从花费，就业，读博，移民，人身安全等各方面展开)
     
     Cons:
+    
     * qs排名低，考虑回国慎选
     * 需要APS，流程相对麻烦
     * 学校方向很少，只有Autonomous Systems，Service Technology 以及Visual Computing 3个方向
