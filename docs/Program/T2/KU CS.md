@@ -31,7 +31,8 @@
 > ## **3. 注意事项**
 
 ???+ warning "网申注意事项"
-    waited to be done
+* 需要提交本科课程描述
+* 不需要PS/CV
 
 ???+ warning "其他注意事项"
     waited to be done
