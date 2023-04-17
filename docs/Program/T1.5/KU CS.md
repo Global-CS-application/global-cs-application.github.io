@@ -10,16 +10,18 @@
 
     Pros:
     
-    * (建议从花费，就业，读博，移民，人身安全等各方面展开)
+    * 哥哈CS在NLP和理论算法方向很强，CV方面有Serge Belongie大佬坐镇
+    * 可参考此[学习体验](https://zhuanlan.zhihu.com/p/495418502)
     
     Cons:
 
-    * 期待您的贡献！理性回答即可 :)
+    * 课程偏理论，第一学期的课(Advanced Programming)反应很难
 
 > ## **2. 项目录取**
 
 ???+ tip "录取偏好"
-    waited to be done
+    - 根据观察，录取学生多为985或上游211
+    - 匹配度卡得非常严格，特别是Programming部分
 
 ???+ tip "录取数据"
 
