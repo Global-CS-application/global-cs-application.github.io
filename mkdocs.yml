@@ -86,6 +86,7 @@ plugins:
 nav:
   - "index.md"
   - 项目介绍:
+      - 查找指南: "Program/search.md"
       - 欧陆项目:
           - Ⅰ:
               - ETH MSCS: "Program/T0/ETH MSCS.md"
