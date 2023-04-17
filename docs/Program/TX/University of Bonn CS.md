@@ -9,6 +9,7 @@
 ???+ abstract "项目优劣势" 
 
     Pros:
+    
     * 免学费，每学期300欧左右的行政费
     * 欧洲少见的以研究为重点的硕士项目，可以类比为香港的Mphil
     * 周围研究所众多，进入研究所以及Phd机会大
@@ -19,6 +20,7 @@
     * (建议从花费，就业，读博，移民，人身安全等各方面展开)
     
     Cons:
+    
     * 学校研究方向较少，只有Algorithmics，Graphics/Vision/Audio，Information and Communication Management以及Intelligent Systems四个方向
     * QS排名低，有回国意向慎选
     * 需要APS，流程复杂
