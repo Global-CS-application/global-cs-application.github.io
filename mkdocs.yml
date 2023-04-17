@@ -114,15 +114,20 @@ nav:
               - UH DS: "Program/T1.5/UH DS.md"
           - Ⅴ:
               - UvA&VU CS: "Program/T2/UvA&VU CS.md"
+
               - DTU CS: "Program/T2/DTU CS.md"
               - DTU AI: "Program/T2/DTU AI.md"
               - Uppsala CS: "Program/T2/Uppsala CS.md"
+              - TU Graz CS: "Program/T2/TU Graz CS.md"
+              - TU Wien CS: "Program/T2/TU Wien CS.md"
 
           - Ⅹ:
               - UZH CS: "Program/TX/UZH CS.md"
               - UZH AI: "Program/TX/UZH AI.md"
               - UZH DS: "Program/TX/UZH DS.md"
               - TUM CS: "Program/TX/TUM CS.md"
+              - University of Bonn CS: "Program/TX/University of Bonn CS.md"
+              - University of Stuttgart CS: "Program/TX/University of Stuttgart CS.md"
 
       - 英国项目:
           - Ⅰ:
