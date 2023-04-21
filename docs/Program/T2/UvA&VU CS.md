@@ -9,23 +9,25 @@
 ???+ abstract "项目优劣势" 
 
     Pros:
-    23-24学年学费：15580欧，生活费每月1000欧（学校建议1000欧，个人建议按1200准备）
-    地处荷兰首都阿姆斯特丹，方便实习找工
-    项目注册通过VU，VU提供第一年的找房服务，覆盖35%的国际新生，拿到offer后尽快缴纳500欧元的住房服务费，并加入排房list
-    荷兰移民需要连续居住5年，通过融入考试（包括荷兰语），最后一年持有非临时签证（工作签证）
-    硕士2年+工作3年就能拿荷兰永居/入籍
-    VU&UvA Master of Computer Science有5个方向：https://vu.nl/en/education/master/computer-science
-    Big Data Engineering
-    Foundations of Computing and Concurrency
-    Computer Systems and Infrastructure
-    Systems for Large-Scale Applications
-    Software Engineering and Green IT    
+    
+    * 23-24学年学费：15580欧，生活费每月1000欧（学校建议1000欧，个人建议按1200准备）
+    * 地处荷兰首都阿姆斯特丹，方便实习找工
+    * 项目注册通过VU，VU提供第一年的找房服务，覆盖35%的国际新生，拿到offer后尽快缴纳500欧元的住房服务费，并加入排房list
+    * 荷兰移民需要连续居住5年，通过融入考试（包括荷兰语），最后一年持有非临时签证（工作签证）
+    * 硕士2年+工作3年就能拿荷兰永居/入籍
+    * VU&UvA Master of Computer Science有5个方向：https://vu.nl/en/education/master/computer-science
+        * Big Data Engineering
+        * Foundations of Computing and Concurrency
+        * Computer Systems and Infrastructure
+        * Systems for Large-Scale Applications
+        * Software Engineering and Green IT    
     
     
-    *读博有待补充
+    * 读博有待补充
     
     Cons:
-    租房难
+    
+    * 租房难
     
 
 > ## **2. 项目录取**
@@ -43,11 +45,13 @@
 > ## **3. 注意事项**
 
 ???+ warning "网申注意事项"
-    学校会给一个word模板，照着填就行，最后转成pdf提交。
-    准备内容：CV/动机信/课程描述/英语学术写作材料
-    不需要推荐信，社恐选手狂喜
+
+    * 学校会给一个word模板，照着填就行，最后转成pdf提交。
+    * 准备内容：CV/动机信/课程描述/英语学术写作材料
+    * 不需要推荐信，社恐选手狂喜
 
 ???+ warning "其他注意事项"
-    无留位费，第一年学费+生活费在4-6月办签证时交。
-    拿到offer决定去的话，第一时间交钱排房。
+
+    * 无留位费，第一年学费+生活费在4-6月办签证时交。
+    * 拿到offer决定去的话，第一时间交钱排房。
 
