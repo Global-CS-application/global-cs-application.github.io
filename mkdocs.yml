@@ -142,14 +142,13 @@ nav:
               - Oxford ACS: "Program/T0/Oxford ACS.md"
               - UCL CSML MSc: "Program/T0/UCL CSML MSc.md"
           - Ⅱ:
-              - UCL DSML MSc: "Program/T0.5/UCL DSML MSc.md"
-          - Ⅲ:
+              - UCL DSML MSc: "Program/T1/UCL DSML MSc.md"
               - UCL ML MSc: "Program/T1/UCL ML MSc.md"
               - Edinburgh AI: "Program/T1/Edinburgh AI.md"
               - IC AIML: "Program/T1/IC AIML.md"
               - IC AC: "Program/T1/IC AC.md"
-          - Ⅳ:
-              - Edinburgh REST: "Program/T1.5/Edinburgh REST.md"
+          - Ⅲ:
+              - Edinburgh CS: "Program/T1.5/Edinburgh CS.md"
               - UCL CS Msc: "Program/T1.5/UCL CS Msc.md"
               - UCL CGVI: "Program/T1.5/UCL CGVI.md"
 
