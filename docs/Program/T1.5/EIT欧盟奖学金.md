@@ -32,7 +32,7 @@
     * Cloud and Network Infrastructures
     * Cyber Security
     * Data Science
-      * 相比于传统的DS项目，它的课程比较杂（详见EIT官网）。该项目会上一些EIT要求的课程，比如暑校有一些商科课程可能会觉得无聊，如果想读博这部分基本是消磨时间。但由于这个项目的学分同样是120ECTS，因此你是满足学分要求可以申博的。（一些一年硕可能在学分上不达标而不被允许申请欧陆博士）
+        * 相比于传统的DS项目，它的课程比较杂（详见EIT官网）。该项目会上一些EIT要求的课程，比如暑校有一些商科课程可能会觉得无聊，如果想读博这部分基本是消磨时间。但由于这个项目的学分同样是120ECTS，因此你是满足学分要求可以申博的。（一些一年硕可能在学分上不达标而不被允许申请欧陆博士）
     * Embedded Systems
     * Fintech
     * Human Computer Interaction and Design
