@@ -15,6 +15,14 @@
     Cons:
 
     * 期待您的贡献！理性回答即可 :)
+    
+???+ abstract "EM具体项目及体验"
+
+    具体培养方案及课程安排详见官网(https://erasmus-plus.ec.europa.eu/opportunities)。
+    
+    * SECCLO
+    * BDMA
+    * LCT
 
 > ## **2. 项目录取**
 
