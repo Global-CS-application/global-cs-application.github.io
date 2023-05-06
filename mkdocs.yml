@@ -167,7 +167,8 @@ nav:
               - NTU MSDS: "Program/T1.5/NTU MSDS.md"
               - NTU Cyber Security: "Program/T1.5/NTU Cyber Security.md"
           - Ⅱ:
-              - NUS CE: "Program/T2/NUS CE.md"
+              - NUS CE: "Program/T2/NUS CE.md
+              - SMU MITB: "Program/T2/SMU MITB.md"
 
       - 日韩/其他项目:
           - KAIST CS: "Program/TX/KAIST CS.md"
