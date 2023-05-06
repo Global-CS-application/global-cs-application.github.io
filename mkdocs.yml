@@ -100,6 +100,7 @@ nav:
               - KTH MSML: "Program/T1/KTH MSML.md"
               - KTH MSCS: "Program/T1/KTH MSCS.md"
               - TUD MSCS: "Program/T1/TUD MSCS.md"
+              - TUD MSCESE: "Program/T1/TUD MSCESE.md"
               - UvA AI: "Program/T1/UvA AI.md"
               - Aalto CS: "Program/T1/Aalto CS.md"
               - Aalto HCI: "Program/T1/Aalto HCI.md"
@@ -161,14 +162,14 @@ nav:
             - CUHK IE: "Program/T1.5/CUHK IE.md"
 
       - 新加坡项目:
-          - Ⅰ:
-              - NUS Mcomp: "Program/T1.5/NUS Mcomp.md"
-              - NTU MSAI: "Program/T1.5/NTU MSAI.md"
-              - NTU MSDS: "Program/T1.5/NTU MSDS.md"
-              - NTU Cyber Security: "Program/T1.5/NTU Cyber Security.md"
-          - Ⅱ:
-              - NUS CE: "Program/T2/NUS CE.md
-              - SMU MITB: "Program/T2/SMU MITB.md"
+            - Ⅰ:
+                - NUS Mcomp: "Program/T1.5/NUS Mcomp.md"
+                - NTU MSAI: "Program/T1.5/NTU MSAI.md"
+                - NTU MSDS: "Program/T1.5/NTU MSDS.md"
+                - NTU Cyber Security: "Program/T1.5/NTU Cyber Security.md"
+            - Ⅱ:
+                - NUS CE: "Program/T2/NUS CE.md"
+                - SMU MITB: "Program/T2/SMU MITB.md"
 
       - 日韩/其他项目:
           - KAIST CS: "Program/TX/KAIST CS.md"
