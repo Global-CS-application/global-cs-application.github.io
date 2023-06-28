@@ -93,10 +93,8 @@ nav:
               - ETH MSDS: "Program/T0/ETH MSDS.md"
               - ETH Cyber Security: "Program/T0/ETH Cyber Security.md"
               - EPFL MSCS: "Program/T0/EPFL MSCS.md"
-
           - Ⅱ:
               - EPFL MSDH: "Program/T0.5/EPFL MSDH.md"
-          - Ⅲ:
               - KTH MSML: "Program/T1/KTH MSML.md"
               - KTH MSCS: "Program/T1/KTH MSCS.md"
               - TUD MSCS: "Program/T1/TUD MSCS.md"
@@ -106,7 +104,7 @@ nav:
               - Aalto HCI: "Program/T1/Aalto HCI.md"
               - Aalto MLDSAI: "Program/T1/Aalto MLDSAI.md"
               - LMU MSDS: "Program/T1/LMU MSDS.md"
-          - Ⅳ:
+          - Ⅲ:
               - EIT欧盟奖学金: "Program/T1.5/EIT欧盟奖学金.md"
               - Erasmus欧盟奖学金: "Program/T1.5/EM欧盟奖学金.md"
               - TUE CS: "Program/T1.5/TUE CS.md"
@@ -119,7 +117,7 @@ nav:
               - CTH DSAI: "Program/T1.5/CTH DSAI.md"
               - CTH SE: "Program/T1.5/CTH SE.md"
               - UvA&VU CS: "Program/T2/UvA&VU CS.md"
-          - Ⅴ:
+          - Ⅳ:
               - DTU CS: "Program/T2/DTU CS.md"
               - DTU AI: "Program/T2/DTU AI.md"
               - Uppsala CS: "Program/T2/Uppsala CS.md"
