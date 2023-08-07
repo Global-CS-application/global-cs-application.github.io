@@ -93,29 +93,31 @@ nav:
               - ETH MSDS: "Program/T0/ETH MSDS.md"
               - ETH Cyber Security: "Program/T0/ETH Cyber Security.md"
               - EPFL MSCS: "Program/T0/EPFL MSCS.md"
-
           - Ⅱ:
               - EPFL MSDH: "Program/T0.5/EPFL MSDH.md"
-          - Ⅲ:
               - KTH MSML: "Program/T1/KTH MSML.md"
               - KTH MSCS: "Program/T1/KTH MSCS.md"
               - TUD MSCS: "Program/T1/TUD MSCS.md"
+              - TUD MSCESE: "Program/T1/TUD MSCESE.md"
               - UvA AI: "Program/T1/UvA AI.md"
               - Aalto CS: "Program/T1/Aalto CS.md"
               - Aalto HCI: "Program/T1/Aalto HCI.md"
               - Aalto MLDSAI: "Program/T1/Aalto MLDSAI.md"
-          - Ⅳ:
+              - LMU MSDS: "Program/T1/LMU MSDS.md"
+          - Ⅲ:
               - EIT欧盟奖学金: "Program/T1.5/EIT欧盟奖学金.md"
               - Erasmus欧盟奖学金: "Program/T1.5/EM欧盟奖学金.md"
               - TUE CS: "Program/T1.5/TUE CS.md"
               - KU CS: "Program/T1.5/KU CS.md"
+              - LMU Informatics: "Program/T1.5/LMU Informatics.md"
               - Aarhus CS: "Program/T1.5/Aarhus CS.md"
-              - UH CS: "Program/T1.5/UH CS.md"
-              - UH DS: "Program/T1.5/UH DS.md"
+              - University of Helsinki CS: "Program/T1.5/UH CS.md"
+              - University of Helsinki DS: "Program/T1.5/UH DS.md"
               - University of Heidelberg DCS: "Program/T1.5/University of Heidelberg DCS.md"
               - CTH DSAI: "Program/T1.5/CTH DSAI.md"
-          - Ⅴ:
+              - CTH SE: "Program/T1.5/CTH SE.md"
               - UvA&VU CS: "Program/T2/UvA&VU CS.md"
+          - Ⅳ:
               - DTU CS: "Program/T2/DTU CS.md"
               - DTU AI: "Program/T2/DTU AI.md"
               - Uppsala CS: "Program/T2/Uppsala CS.md"
@@ -132,6 +134,7 @@ nav:
               - TUM CS: "Program/TX/TUM CS.md"
               - University of Bonn CS: "Program/TX/University of Bonn CS.md"
               - University of Stuttgart CS: "Program/TX/University of Stuttgart CS.md"
+              - IPP DSAI: "Program/TX/IPP DSAI.md"                           
               
 
       - 英国项目:
@@ -141,14 +144,13 @@ nav:
               - Oxford ACS: "Program/T0/Oxford ACS.md"
               - UCL CSML MSc: "Program/T0/UCL CSML MSc.md"
           - Ⅱ:
-              - UCL DSML MSc: "Program/T0.5/UCL DSML MSc.md"
-          - Ⅲ:
+              - UCL DSML MSc: "Program/T1/UCL DSML MSc.md"
               - UCL ML MSc: "Program/T1/UCL ML MSc.md"
               - Edinburgh AI: "Program/T1/Edinburgh AI.md"
               - IC AIML: "Program/T1/IC AIML.md"
               - IC AC: "Program/T1/IC AC.md"
-          - Ⅳ:
-              - Edinburgh REST: "Program/T1.5/Edinburgh REST.md"
+          - Ⅲ:
+              - Edinburgh CS: "Program/T1.5/Edinburgh CS.md"
               - UCL CS Msc: "Program/T1.5/UCL CS Msc.md"
               - UCL CGVI: "Program/T1.5/UCL CGVI.md"
 
@@ -160,13 +162,14 @@ nav:
             - CUHK IE: "Program/T1.5/CUHK IE.md"
 
       - 新加坡项目:
-          - Ⅰ:
-              - NUS Mcomp: "Program/T1.5/NUS Mcomp.md"
-              - NTU MSAI: "Program/T1.5/NTU MSAI.md"
-              - NTU MSDS: "Program/T1.5/NTU MSDS.md"
-              - NTU Cyber Security: "Program/T1.5/NTU Cyber Security.md"
-          - Ⅱ:
-              - NUS CE: "Program/T2/NUS CE.md"
+            - Ⅰ:
+                - NUS Mcomp: "Program/T1.5/NUS Mcomp.md"
+                - NTU MSAI: "Program/T1.5/NTU MSAI.md"
+                - NTU MSDS: "Program/T1.5/NTU MSDS.md"
+                - NTU Cyber Security: "Program/T1.5/NTU Cyber Security.md"
+            - Ⅱ:
+                - NUS CE: "Program/T2/NUS CE.md"
+                - SMU MITB: "Program/T2/SMU MITB.md"
 
       - 日韩/其他项目:
           - KAIST CS: "Program/TX/KAIST CS.md"

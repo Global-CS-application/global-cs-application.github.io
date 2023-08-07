@@ -4,36 +4,55 @@
 
     | 项目时长 | 授课语言 | 学位类型 | 是否强制实习 | 毕业是否需要论文 | 奖学金 | 其他 |
     |------|------|--------|----------|------|------|------------|
-    | 2年    | EN | Master of Science      | 否      | 是    | ？    | ？          |
+    | 2年    | EN | Master of Science      | 否      | 是    | 有（较难）    | ？          |
 
 ???+ abstract "项目优劣势" 
 
     Pros:
     
-    * (建议从花费，就业，读博，移民，人身安全等各方面展开)
-    * 可参考此[学习体验](https://www.zhihu.com/question/60689972/answer/1256794815)
+    * 23-24学年学费：15580欧，生活费每月1000欧（学校建议1000欧，个人建议按1200准备）
+    * 地处荷兰首都阿姆斯特丹，方便实习找工
+    * 项目注册通过VU，VU提供第一年的找房服务，覆盖35%的国际新生，拿到offer后尽快缴纳500欧元的住房服务费，并加入排房list
+    * 荷兰移民需要连续居住5年，通过融入考试（包括荷兰语），最后一年持有非临时签证（工作签证）
+    * 硕士2年+工作3年就能拿荷兰永居/入籍
+    * VU&UvA Master of Computer Science有5个方向：https://vu.nl/en/education/master/computer-science
+        * Big Data Engineering
+        * Foundations of Computing and Concurrency
+        * Computer Systems and Infrastructure
+        * Systems for Large-Scale Applications
+        * Software Engineering and Green IT    
+    
+    
+    * 读博有待补充
     
     Cons:
-
-    * 期待您的贡献！理性回答即可 :)
+    
+    * 租房难
+    
 
 > ## **2. 项目录取**
 
 ???+ tip "录取偏好"
-    waited to be done
+    首先是课程匹配度，其次是均分，有很多跨专业的小伙伴也申上了。
 
 ???+ tip "录取数据"
 
     | 录取时间 | 录取结果 | 学校（档次） | 本科专业 |GPA/Rank | 科研经历 | 实习经历 | 其他（语言/推荐信） |
     |------|------|--------|------|----|------|------|------------|
-    | ？    | ？ | ？      | ？  | ？    | ？    | ？    | ？          |
+    | 2022年12月18日    | ad | 985      | 计算机科学与技术  | 85.6    |   无  | 小厂    | IELTS 6.5(6)      |
+    | 2022年11月21日    | ad | TOP15(CS&SE A+) | 软件工程  | 85 | 国家重点实验室 | 芯片中厂 | IELTS 7.0(6.5) |
 
 
 > ## **3. 注意事项**
 
 ???+ warning "网申注意事项"
-    waited to be done
+
+    * 学校会给一个word模板，照着填就行，最后转成pdf提交。
+    * 准备内容：CV/动机信/课程描述/英语学术写作材料
+    * 不需要推荐信，社恐选手狂喜
 
 ???+ warning "其他注意事项"
-    waited to be done
+
+    * 无留位费，第一年学费+生活费在4-6月办签证时交。
+    * 拿到offer决定去的话，第一时间交钱排房。
 
