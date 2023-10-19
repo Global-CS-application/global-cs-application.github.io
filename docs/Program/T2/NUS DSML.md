@@ -4,7 +4,7 @@
 
     | 项目时长 | 授课语言 | 学位类型 | 是否强制实习 | 毕业是否需要论文 | 奖学金 | 其他 |
     |------|------|--------|----------|------|------|------------|
-    | 1年   | EN | Master of Science (Computer Engineering)  | 可选择      | 非必要    | 奖学金基本只针对新加坡人   | DSML  |
+    | 1年   | EN | Master of Science (Data Science and Machine Learning)  | 可选择      | 非必要    | 奖学金基本只针对新加坡人   | DSML  |
 
 ???+ abstract "项目优劣势"
 
