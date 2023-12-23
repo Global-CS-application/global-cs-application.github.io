@@ -176,6 +176,7 @@ nav:
           - KAIST CS: "Program/TX/KAIST CS.md"
           - UTokyo CS: "Program/TX/UTokyo CS.md"
           - KAUST CS Msc: "Program/TX/KAUST CS Msc.md"
+          - Waseda IPS: "Program/TX/Waseda IPS.md"
   - 申请总结:
       - 23fall:
           - DIY指南 by @Lee-abcde: "summary/23fall/DIYguide.md"
@@ -238,4 +239,3 @@ nav:
 repo_url: https://github.com/Global-CS-application/global-cs-application.github.io
 repo_name: global-cs-application
 edit_uri: edit/main/docs/
-
