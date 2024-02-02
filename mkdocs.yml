@@ -104,6 +104,7 @@ nav:
               - Aalto HCI: "Program/T1/Aalto HCI.md"
               - Aalto MLDSAI: "Program/T1/Aalto MLDSAI.md"
               - LMU MSDS: "Program/T1/LMU MSDS.md"
+              - Polimi CSE: "Program/T1/Polimi CSE.md"
           - Ⅲ:
               - EIT欧盟奖学金: "Program/T1.5/EIT欧盟奖学金.md"
               - Erasmus欧盟奖学金: "Program/T1.5/EM欧盟奖学金.md"
@@ -176,6 +177,7 @@ nav:
           - KAIST CS: "Program/TX/KAIST CS.md"
           - UTokyo CS: "Program/TX/UTokyo CS.md"
           - KAUST CS Msc: "Program/TX/KAUST CS Msc.md"
+          - Waseda IPS: "Program/TX/Waseda IPS.md"
   - 申请总结:
       - 23fall:
           - DIY指南 by @Lee-abcde: "summary/23fall/DIYguide.md"
@@ -238,4 +240,3 @@ nav:
 repo_url: https://github.com/Global-CS-application/global-cs-application.github.io
 repo_name: global-cs-application
 edit_uri: edit/main/docs/
-
