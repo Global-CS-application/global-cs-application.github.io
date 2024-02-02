@@ -31,7 +31,7 @@
 > ## **3. 注意事项**
 
 ???+ warning "网申注意事项"
-    waited to be done
+    今年新加入要求GPA ≥ 3.5/4.0
 
 ???+ warning "其他注意事项"
     waited to be done

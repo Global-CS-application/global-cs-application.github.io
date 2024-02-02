@@ -1,5 +1,9 @@
 # Global CS：欧港新留学CS项目指北
 
+## 加入我们 (2024. 1. 16更新)
+
+Global CS discord 频道邀请链接：[Global CS](https://discord.gg/HmXMDm7nPB)
+
 ## What is Global CS
 
 这是一个针对**欧洲/港新**地区计算机硕士相关项目的介绍网站
