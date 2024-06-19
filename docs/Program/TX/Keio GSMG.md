@@ -43,6 +43,6 @@
     * 需要得到教授的内诺才能提交申请，需要邮寄材料
 
 ???+ warning "其他注意事项"
-    * CS主要集中在 X-Design(XD) 和 Cyber Informatics(CI) 这两个分野，研究方向主要有 AI、Computer Network、HCI 等
+    * CS 主要集中在 X-Design(XD) 和 Cyber Informatics(CI) 这两个分野，研究方向主要有 AI、Computer Network、HCI 等
     * 警惕海王教授
 
