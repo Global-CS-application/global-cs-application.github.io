@@ -4,22 +4,35 @@
 
     | 项目时长 | 授课语言 | 学位类型 | 是否强制实习 | 毕业是否需要论文 | 奖学金 | 其他 |
     |------|------|--------|----------|------|------|------------|
-    | ？    | ？ | ？      | ？      | ？    | ？    | ？          |
+    | 理论两年    | EN | Master of Science      | 否      | 是    | 无    | 无          |
 
 ???+ abstract "项目优劣势" 
 
     Pros:
     
+    * 学费便宜 (< 1k CHF)
+    * 苏黎世整体相对安全
+    * 可以选ETH的课抵核心课和选修课的学分，能够用上ETH和UZH两边的资源
+    * 有五个major，转major和minor都比较自由 (https://www.ifi.uzh.ch/en/studies/msc.html):
+        * Information Systems
+        * Software Systems
+        * People-Oriented Computing
+        * Data Science
+        * Artificial Intelligence
     * (建议从花费，就业，读博，移民，人身安全等各方面展开)
     
     Cons:
 
+    * 没有强制实习，瑞士实习/工作难度较高
+    * 苏黎世生活成本较高
+    * 大量同学被要求补本科学分，本科课程难度较高，两年内如果不能补完会被清退
+    * 很少有人能2年毕业
     * 期待您的贡献！理性回答即可 :)
 
 > ## **2. 项目录取**
 
 ???+ tip "录取偏好"
-    waited to be done
+    匹配度要求很高，转专业的也有可能拿到offer，但是会被要求补本科学分。
 
 ???+ tip "录取数据"
 
@@ -31,8 +44,8 @@
 > ## **3. 注意事项**
 
 ???+ warning "网申注意事项"
-    waited to be done
+    课程描述一定要好好写，争取做到不补学分 :)
 
 ???+ warning "其他注意事项"
-    waited to be done
+    ETH开始限制10043了，不知道后续UZH会不会也卡
 
