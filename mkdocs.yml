@@ -179,10 +179,16 @@ nav:
           - KAIST CS: "Program/TX/KAIST CS.md"
           - UTokyo CS: "Program/TX/UTokyo CS.md"
           - KAUST CS Msc: "Program/TX/KAUST CS Msc.md"
+          - Waseda AO: "Program/TX/Waseda AO.md"
           - Waseda IPS: "Program/TX/Waseda IPS.md"
+          - Keio IGP: "Program/TX/Keio IGP.md"
+          - Keio KMD: "Program/TX/Keio KMD.md"
+          - Keio SDM: "Program/TX/Keio SDM.md"
+          - Keio GSMG (SFC): "Program/TX/Keio GSMG.md"
   - 申请总结:
       - 23fall:
           - DIY指南 by @Lee-abcde: "summary/23fall/DIYguide.md"
+
   - 加入我们: "joinus.md"
 #      - Ⅰ:
 #          - ETH MSCS: "Program/T0/ETH MSCS.md"
