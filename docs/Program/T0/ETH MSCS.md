@@ -45,5 +45,5 @@
     * 高中毕业证明的一种处理办法是拿到本地公证处进行中英文公证
 
 ???+ warning "其他注意事项"
-    * 暂无
+    * ETH现在直接拒绝中国籍理工科学生，详见[该校给出的说明](https://ethz.ch/staffnet/en/news-and-events/internal-news/archive/2024/10/dual-use-and-sanctions-these-applications-require-security-screening.html)
 
