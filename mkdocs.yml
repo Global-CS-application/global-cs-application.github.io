@@ -103,7 +103,7 @@ nav:
               - Aalto CS: "Program/T1/Aalto CS.md"
               - Aalto HCI: "Program/T1/Aalto HCI.md"
               - Aalto MLDSAI: "Program/T1/Aalto MLDSAI.md"
-              - LMU MSDS: "Program/T1/LMU MSDS.md"
+              # - LMU MSDS: "Program/T1/LMU MSDS.md"
               - Polimi CSE: "Program/T1/Polimi CSE.md"
           - Ⅲ:
               - EIT欧盟奖学金: "Program/T1.5/EIT欧盟奖学金.md"
