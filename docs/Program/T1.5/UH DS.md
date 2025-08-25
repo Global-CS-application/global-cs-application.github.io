@@ -11,6 +11,7 @@
     笔者的就读体验：[在赫尔辛基大学（University of Helsinki）就读是怎样的一种体验？ - kryolzh的回答 - 知乎](https://www.zhihu.com/question/27113833/answer/1902248663104885337)
 
     Pros:
+
     - 生活
         - 赫尔辛基地区生活成本并不高，超市肉蛋奶价格基本持平国内，蔬菜水果略贵；
         - 芬兰有非常好的学生福利，学生餐只要2.95欧，首都地区的学生公寓单人Studio在600欧左右，Shared Apartment只要400欧左右，公共交通/火车都有学生价；
@@ -26,6 +27,7 @@
         - 前几年，阿尔托、赫大和VTT成立了Finnish Center for Artificial Intelligence (FCAI)，每年会通过这个招收不少PhD；
         - 如果从事AI，芬兰有非常的计算资源，Finnish IT Center for Science (CSC)拥有大量的计算资源，目前主要的三个计算集群，Puhti (96 Nvidia V100 GPUs)、Mahti (48 Nvidia A100 GPUs)、Lumi (10240 AMD Radeon Instinct MI250X GPUs，欧洲最快的超算)，2025年还将投入使用的Roihu，会配备528个Nvidia GH200 GPU；
       Cons:
+      
       - 生活
         - 芬兰的气候比较极端，冬天长，11月到1月日照少，有的人会感觉不舒服，但因人而异；
         - 中餐馆质量不行🙃；
